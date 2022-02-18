@@ -1,5 +1,5 @@
 # Data-Science-Practice-Projects
-The Repository contains Data scince Projects 
+<!-- The Repository contains Data scince Projects 
 
 The Projects are involving particular steps in data science process like 
             1)Web Scraping using BeautifulSoup ,Data Wrangling and Data Cleaning
@@ -21,3 +21,4 @@ Simply the Repository contains projects showing following steps in Data Science 
             Model Evaluation
             Deployment
             Feedback
+ -->
