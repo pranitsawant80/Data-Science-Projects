@@ -1,1 +1,2 @@
-
+1) Exploratory Data Analysis  using Pandas ,SQL ,Numpy 
+2) Visualization using Python Libraries - Matplotlib, Seaborn, Plotly etc.
