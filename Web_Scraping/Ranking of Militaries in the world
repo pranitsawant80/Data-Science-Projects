@@ -1,0 +1,11 @@
+,Military_Rank,Country_Name,Power_Index_rating,Total_population,Total_military_personnel,Aircraft,Fighter_Aircraft,Dedicated_Attack,Attack_Helicopters,Combat_tanks,Total_naval_assets,Defense_budget
+0,1, United States, 0.0453," 332,639,102"," 2,245,500"," 13,233"," 1,956", 761, 904," 6,100", 490; 21 aircraft carriers," $740,500,000,000"
+1,2, Russia, 0.0501," 141,722,205"," 3,569,000"," 4,144", 789, 742, 538," 13,000", 603; 1 aircraft carriers," $42,129,000,000"
+2,3, China, 0.0511," 1,394,015,977"," 3,355,000"," 3,260"," 1,200", 371, 327," 3,205", 777; 2 aircraft carriers," $178,200,000,000"
+3,4, India, 0.0979," 1,326,093,247"," 5,127,000"," 2,119", 542, 130, 37," 4,730", 285; 1 aircraft carriers," $73,650,000,000"
+4,5, Japan, 0.1195," 125,507,472"," 319,000"," 1,480", 256, 17, 119," 1,004", 155; 4 aircraft carriers," $51,700,000,000"
+5,6, South Korea, 0.1261," 51,835,110"," 6,710,000"," 1,581", 402, 74, 112," 2,600", 234; 1 aircraft carriers," $48,000,000,000"
+6,7, France, 0.1283," 67,848,156"," 450,000"," 1,057", 269, 0, 69, 406, 180; 4 aircraft carriers," $47,700,000,000"
+7,8, The United Kingdom, 0.1382," 65,761,117"," 275,000", 738, 119, 15, 38, 109, 88; 2 aircraft carriers," $56,042,000,000"
+8,9, Pakistan, 0.1572," 223,500,636"," 1,704,000"," 1,364", 357, 90, 53," 2,680", 100; 0 aircraft carriers," $12,275,000,000"
+9,10, Brazil, 0.1695," 211,715,973"," 2,074,500", 676, 43, 77, 12, 439, 112; 1 aircraft carriers," $29,300,000,000"
