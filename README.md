@@ -7,7 +7,7 @@ The Projects are involving particular steps in data science process like
             3)Classical M.L. on Tabular Data  
             4)Deep Learning(computer vision and NLP) 
             5)Dashboard creation using Exel ,IBM Cognos Analytics 
-            6)Presentation of Projects using Power Point 
+            6)Presentation of Projects using Power Point  
    
  
 Simply the Repository contains projects showing following steps in Data Science Methodology
